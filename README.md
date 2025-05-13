@@ -1,4 +1,3 @@
-# Movie-Recommendation-System
 # 🎬 CineMatch: Personalized Movie Recommendation System
 
 **CineMatch** is a deep learning-powered movie recommendation engine that predicts what you'll love next, based on your past viewing history and preferences. Built with TensorFlow and Streamlit, the system uses a hybrid Neural Collaborative Filtering (NCF) model trained on the MovieLens 32M dataset.
